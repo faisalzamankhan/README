@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="faisalzamankhan" /> </p>
 
-- 🔭 I worked on [Midlynk](https://app.midlynk.com/jobs/listing) ,[AI Ite],[Q-100](https://q100-4ca4a.web.app/log-in),[Reelo]
+- 🔭 I worked on [Midlynk](https://app.midlynk.com/jobs/listing)[Sappay](https://app.sappay.net/login)[Q-100](https://q100-4ca4a.web.app/log-in)[Reelo](https://app.reelo.ca/login)[Grow Smart Live](https://growsmartlive.com/)
 
 - 🌱 I’m currently learning **node.js**
 
